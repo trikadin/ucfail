@@ -1,0 +1,20 @@
+{
+  "name": "ucfail",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "install": "gulp",
+    "start": "node build/app"
+  },
+  "author": "trikadin@mail.ru",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.0",
+    "collection.js": "^5.5.5",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "uploadcare": "^0.3.1"
+  }
+}
